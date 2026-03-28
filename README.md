@@ -48,13 +48,6 @@ I build and ship real products — mobile apps, web apps, and AI integrations th
 
 ---
 
-## 📊 GitHub Stats
-
-![Rex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rex-Orokumue&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Orokumue&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌍 About Me
 
 - 🇳🇬 Building from Nigeria for the world
